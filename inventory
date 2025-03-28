@@ -18,11 +18,12 @@ anscos85-1
 anscos85-2
 anscos85-3
 
-[ubu22]
+[ubu]
 #ansubu22-0
 ansubu22-1
-
-[ubu24]
 #ansubu24-0
-ansubu24-1
-
+#ansubu24-1
+#
+[deb]
+#ansdeb11-0
+ansdeb11-1
